@@ -11,3 +11,16 @@
 /mnt/c/Users/Pedro/VS Projects/Notification/obj/Debug/netcoreapp3.1/Notification.dll
 /mnt/c/Users/Pedro/VS Projects/Notification/obj/Debug/netcoreapp3.1/Notification.pdb
 /mnt/c/Users/Pedro/VS Projects/Notification/obj/Debug/netcoreapp3.1/Notification.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Notification\bin\Debug\netcoreapp3.1\Notification.exe
+C:\Users\Pedro\source\repos\Notification\bin\Debug\netcoreapp3.1\Notification.deps.json
+C:\Users\Pedro\source\repos\Notification\bin\Debug\netcoreapp3.1\Notification.runtimeconfig.json
+C:\Users\Pedro\source\repos\Notification\bin\Debug\netcoreapp3.1\Notification.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Notification\bin\Debug\netcoreapp3.1\Notification.dll
+C:\Users\Pedro\source\repos\Notification\bin\Debug\netcoreapp3.1\Notification.pdb
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.dll
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.pdb
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Notification\obj\Debug\netcoreapp3.1\Notification.genruntimeconfig.cache

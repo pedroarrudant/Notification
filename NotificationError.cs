@@ -4,7 +4,7 @@ namespace Notification
 {
     public class NotificationError
     {
-        private string message;
+        public string message { get; private set; }
         public NotificationError(string message) 
         {
             this.message = message;

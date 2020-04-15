@@ -14,6 +14,8 @@ namespace Notification
         }
         public void runValidations()
         {
+            _errors = new List<NotificationError>();
+
             foreach (var item in validations)
             {
                 if (!item.check())
