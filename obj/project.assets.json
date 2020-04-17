@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pedro\\source\\repos\\Notification\\Notification.csproj",
+      "projectUniqueName": "C:\\Users\\Pedro\\VS Projects\\Notification\\Notification.csproj",
       "projectName": "Notification",
-      "projectPath": "C:\\Users\\Pedro\\source\\repos\\Notification\\Notification.csproj",
+      "projectPath": "C:\\Users\\Pedro\\VS Projects\\Notification\\Notification.csproj",
       "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pedro\\source\\repos\\Notification\\obj\\",
+      "outputPath": "C:\\Users\\Pedro\\VS Projects\\Notification\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Notification
 {
-    class IsNumber:IValidation
+    public class IsNumber:IValidation
     {
         public string errorMessage { get; set; }
         public string value { get; set; }

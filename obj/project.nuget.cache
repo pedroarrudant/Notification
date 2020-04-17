@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MGMce6h2s3+YQL0habdvrP8BWfAIi/KDfZ3o+25nMmk4b+6m17VVDUoenKrQqWITtMiIEmNDoZ2UxGGqyvWgyA==",
+  "dgSpecHash": "OCbMXUxCQZM+OE69T7Gco7NH2xtZAEP7wAsiIN4jCUloMMyuwp+MfuPAZGbYwaJ9zZUSMj4YiwL06MSQTljfXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro\\source\\repos\\Notification\\Notification.csproj",
+  "projectFilePath": "C:\\Users\\Pedro\\VS Projects\\Notification\\Notification.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

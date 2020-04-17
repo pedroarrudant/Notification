@@ -30,7 +30,7 @@ namespace Notification
             if (0 != _errors.Count)
                 return true;
             else
-                return true;
+                return false;
         }
     }
 }
